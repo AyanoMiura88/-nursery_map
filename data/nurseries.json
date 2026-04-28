@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "さくら保育園",
+    "address": "渋谷区代官山1-2-3",
+    "tel": "03-1234-5678",
+    "lat": 35.6482,
+    "lng": 139.7033,
+    "classes": [
+      { "age": 0, "capacity": 6,  "enrolled": 4 },
+      { "age": 1, "capacity": 10, "enrolled": 10 },
+      { "age": 2, "capacity": 12, "enrolled": 10 },
+      { "age": 3, "capacity": 15, "enrolled": 12 },
+      { "age": 4, "capacity": 15, "enrolled": 15 },
+      { "age": 5, "capacity": 15, "enrolled": 14 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ひまわり保育園",
+    "address": "渋谷区松濤2-4-1",
+    "tel": "03-2345-6789",
+    "lat": 35.6612,
+    "lng": 139.6934,
+    "classes": [
+      { "age": 0, "capacity": 6,  "enrolled": 6 },
+      { "age": 1, "capacity": 10, "enrolled": 9 },
+      { "age": 2, "capacity": 12, "enrolled": 12 },
+      { "age": 3, "capacity": 15, "enrolled": 15 },
+      { "age": 4, "capacity": 15, "enrolled": 15 },
+      { "age": 5, "capacity": 15, "enrolled": 15 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "みどり保育園",
+    "address": "渋谷区広尾3-1-5",
+    "tel": "03-3456-7890",
+    "lat": 35.6514,
+    "lng": 139.7195,
+    "classes": [
+      { "age": 0, "capacity": 8,  "enrolled": 5 },
+      { "age": 1, "capacity": 12, "enrolled": 8 },
+      { "age": 2, "capacity": 14, "enrolled": 11 },
+      { "age": 3, "capacity": 18, "enrolled": 15 },
+      { "age": 4, "capacity": 18, "enrolled": 16 },
+      { "age": 5, "capacity": 18, "enrolled": 17 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "たんぽぽ保育園",
+    "address": "渋谷区恵比寿4-2-8",
+    "tel": "03-4567-8901",
+    "lat": 35.6467,
+    "lng": 139.7101,
+    "classes": [
+      { "age": 0, "capacity": 6,  "enrolled": 6 },
+      { "age": 1, "capacity": 10, "enrolled": 10 },
+      { "age": 2, "capacity": 12, "enrolled": 11 },
+      { "age": 3, "capacity": 15, "enrolled": 13 },
+      { "age": 4, "capacity": 15, "enrolled": 14 },
+      { "age": 5, "capacity": 15, "enrolled": 15 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "そら保育園",
+    "address": "渋谷区神山町5-3-2",
+    "tel": "03-5678-9012",
+    "lat": 35.6631,
+    "lng": 139.6988,
+    "classes": [
+      { "age": 0, "capacity": 6,  "enrolled": 3 },
+      { "age": 1, "capacity": 10, "enrolled": 6 },
+      { "age": 2, "capacity": 12, "enrolled": 9 },
+      { "age": 3, "capacity": 15, "enrolled": 10 },
+      { "age": 4, "capacity": 15, "enrolled": 12 },
+      { "age": 5, "capacity": 15, "enrolled": 13 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "なのはな保育園",
+    "address": "渋谷区上原6-1-10",
+    "tel": "03-6789-0123",
+    "lat": 35.6694,
+    "lng": 139.6842,
+    "classes": [
+      { "age": 0, "capacity": 6,  "enrolled": 5 },
+      { "age": 1, "capacity": 10, "enrolled": 10 },
+      { "age": 2, "capacity": 12, "enrolled": 12 },
+      { "age": 3, "capacity": 15, "enrolled": 14 },
+      { "age": 4, "capacity": 15, "enrolled": 15 },
+      { "age": 5, "capacity": 15, "enrolled": 15 }
+    ]
+  }
+]
